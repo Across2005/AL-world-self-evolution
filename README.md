@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/version-3.0.0-blue" alt="version">
   <img src="https://img.shields.io/badge/node-%3E%3D16-green" alt="node">
   <img src="https://img.shields.io/badge/python-%3E%3D3.8-blue" alt="python">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="license">
+  <img src="https://img.shields.io/badge/license-Unlicense-green" alt="license">
 </p>
 
 > **具有自进化能力的 AI 绘画增强 Skill** —— 向量化语义检索 + 智能分类存储 + 自进化闭环。
