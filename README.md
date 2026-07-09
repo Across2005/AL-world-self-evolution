@@ -201,4 +201,4 @@ knowledge-pipeline.py --feedback "kb:prompts.json:prompt_id +1"
 
 ## 📄 License
 
-[MIT](LICENSE)
+[Unlicense](LICENSE)
